@@ -75,7 +75,7 @@
       "uuid": "3de21c18-a533-4150-8a73-49df8fcb8c61",
       "core": true,
       "unlocked_by": null,
-      "difficulty": 4,
+      "difficulty": 3,
       "topics": [
         "arrays",
         "exception_handling",
@@ -101,7 +101,7 @@
       "uuid": "e9d29769-8d4d-4159-8d6f-762db5339707",
       "core": true,
       "unlocked_by": null,
-      "difficulty": 3,
+      "difficulty": 5,
       "topics": [
         "enumerable",
         "hash",
@@ -113,7 +113,7 @@
       "uuid": "d33dec8a-e2b4-40bc-8be9-3f49de084d43",
       "core": true,
       "unlocked_by": null,
-      "difficulty": 1,
+      "difficulty": 5,
       "topics": [
         "equality",
         "loops",
@@ -125,7 +125,7 @@
       "uuid": "efad2cea-1e0b-4fb8-a452-a8e91be73638",
       "core": true,
       "unlocked_by": null,
-      "difficulty": 1,
+      "difficulty": 5,
       "topics": [
         "conditionals",
         "filtering",
@@ -137,7 +137,7 @@
       "uuid": "a79eb8cd-d2db-48f5-a7dc-055039dcee62",
       "core": true,
       "unlocked_by": null,
-      "difficulty": 2,
+      "difficulty": 5,
       "topics": [
         "regular_expressions",
         "sequences",
@@ -149,7 +149,7 @@
       "uuid": "d934ebce-9ac3-4a41-bcb8-d70480170438",
       "core": true,
       "unlocked_by": null,
-      "difficulty": 2,
+      "difficulty": 5,
       "topics": [
         "loops",
         "maps",
@@ -161,7 +161,7 @@
       "uuid": "bee97539-b8c1-460e-aa14-9336008df2b6",
       "core": true,
       "unlocked_by": null,
-      "difficulty": 2,
+      "difficulty": 6,
       "topics": [
         "algorithms",
         "integers",
@@ -173,7 +173,7 @@
       "uuid": "f95ebf09-0f32-4e60-867d-60cb81dd9a62",
       "core": true,
       "unlocked_by": null,
-      "difficulty": 3,
+      "difficulty": 7,
       "topics": [
         "equality",
         "text_formatting",
@@ -185,7 +185,7 @@
       "uuid": "eeb64dda-b79f-4920-8fa3-04810e8d37ab",
       "core": true,
       "unlocked_by": null,
-      "difficulty": 4,
+      "difficulty": 7,
       "topics": [
         "algorithms",
         "pattern_recognition",
@@ -199,7 +199,7 @@
       "uuid": "486becee-9d85-4139-ab89-db254d385ade",
       "core": true,
       "unlocked_by": null,
-      "difficulty": 3,
+      "difficulty": 7,
       "topics": [
         "integers",
         "parsing",
